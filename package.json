@@ -1,0 +1,14 @@
+{
+  "name": "8abdaaa60b995164",
+  "main": "8abdaaa60b995164@412.js",
+  "version": "412.0.0",
+  "homepage": "https://observablehq.com/d/8abdaaa60b995164",
+  "author": {
+    "name": "dataViz",
+    "url": "https://observablehq.com/@dataviz66"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
