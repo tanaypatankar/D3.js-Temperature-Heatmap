@@ -1,5 +1,7 @@
 # CSCE-679-Data-Visualization-Assignment2
 
+GitHub page hosted at https://tanaypatankar.github.io/D3.js-Temperature-Heatmap/
+
 https://observablehq.com/d/8abdaaa60b995164@412
 
 View this notebook in your browser by running a web server in this folder. For
